@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>tp.msk</groupId>
-    <artifactId>mssc-brewey-client</artifactId>
+    <artifactId>mssc-brewery-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mssc-brewey-client</name>
     <description>mssc-brewey-client</description>
